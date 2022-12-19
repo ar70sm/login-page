@@ -22,9 +22,9 @@ main .container{
 
 form{
   position: absolute;
-  left: 50%;
+  right: 0;
   top: 50%;
-  transform: translate(-50% , -50%);
+  transform: translateY(-50%);
   background-color: #0009;
   color: white;
   padding: 20px;
